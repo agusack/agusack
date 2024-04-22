@@ -1,5 +1,5 @@
 - 👋 Hola, soy Agus Ackerman
-- 👀 Me dfino como Desarrollador Web Jr.
+- 👀 Me defino como Desarrollador Web Jr.
 - 🌱 En este momento estoy capacitandome en Python dentro de Odoo
 
 <!---
